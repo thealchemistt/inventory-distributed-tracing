@@ -1,0 +1,121 @@
+2024-08-01T02:44:56.012+05:30  INFO [inventory,,] 10704 --- [inventory] [main] c.e.inventory.InventoryApplication       : Starting InventoryApplication using Java 17.0.11 with PID 10704 (E:\Tech - HLD LLD Scaler\inventory\build\classes\java\main started by Yagnesh in E:\Tech - HLD LLD Scaler\inventory)
+2024-08-01T02:44:56.016+05:30  INFO [inventory,,] 10704 --- [inventory] [main] c.e.inventory.InventoryApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-08-01T02:44:58.675+05:30  INFO [inventory,,] 10704 --- [inventory] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-08-01T02:44:58.690+05:30  INFO [inventory,,] 10704 --- [inventory] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-01T02:44:58.690+05:30  INFO [inventory,,] 10704 --- [inventory] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-01T02:44:58.809+05:30  INFO [inventory,,] 10704 --- [inventory] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-01T02:44:58.809+05:30  INFO [inventory,,] 10704 --- [inventory] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2693 ms
+2024-08-01T02:44:59.845+05:30  INFO [inventory,,] 10704 --- [inventory] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-01T02:44:59.947+05:30  INFO [inventory,,] 10704 --- [inventory] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2024-08-01T02:44:59.962+05:30  INFO [inventory,,] 10704 --- [inventory] [main] c.e.inventory.InventoryApplication       : Started InventoryApplication in 5.042 seconds (process running for 6.408)
+2024-08-01T02:49:47.533+05:30  INFO [inventory,,] 10704 --- [inventory] [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-01T02:49:47.534+05:30  INFO [inventory,,] 10704 --- [inventory] [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-01T02:49:47.535+05:30  INFO [inventory,,] 10704 --- [inventory] [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-01T02:49:47.606+05:30  INFO [inventory,,] 10704 --- [inventory] [http-nio-8082-exec-1] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01T03:02:48.340+05:30  INFO [inventory,,] 14684 --- [inventory] [main] c.e.inventory.InventoryApplication       : Starting InventoryApplication using Java 17.0.11 with PID 14684 (E:\Tech - HLD LLD Scaler\inventory\build\classes\java\main started by Yagnesh in E:\Tech - HLD LLD Scaler\inventory)
+2024-08-01T03:02:48.343+05:30  INFO [inventory,,] 14684 --- [inventory] [main] c.e.inventory.InventoryApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-08-01T03:02:51.401+05:30  INFO [inventory,,] 14684 --- [inventory] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-08-01T03:02:51.433+05:30  INFO [inventory,,] 14684 --- [inventory] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-01T03:02:51.433+05:30  INFO [inventory,,] 14684 --- [inventory] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-01T03:02:51.526+05:30  INFO [inventory,,] 14684 --- [inventory] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-01T03:02:51.526+05:30  INFO [inventory,,] 14684 --- [inventory] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 3120 ms
+2024-08-01T03:02:52.310+05:30  INFO [inventory,,] 14684 --- [inventory] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-01T03:02:52.407+05:30  INFO [inventory,,] 14684 --- [inventory] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2024-08-01T03:02:52.425+05:30  INFO [inventory,,] 14684 --- [inventory] [main] c.e.inventory.InventoryApplication       : Started InventoryApplication in 4.86 seconds (process running for 5.69)
+2024-08-01T03:05:15.295+05:30  INFO [inventory,,] 6332 --- [inventory] [main] c.e.inventory.InventoryApplication       : Starting InventoryApplication using Java 17.0.11 with PID 6332 (E:\Tech - HLD LLD Scaler\inventory\build\classes\java\main started by Yagnesh in E:\Tech - HLD LLD Scaler\inventory)
+2024-08-01T03:05:15.295+05:30  INFO [inventory,,] 6332 --- [inventory] [main] c.e.inventory.InventoryApplication       : No active profile set, falling back to 1 default profile: "default"
+2024-08-01T03:05:16.447+05:30  INFO [inventory,,] 6332 --- [inventory] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8082 (http)
+2024-08-01T03:05:16.463+05:30  INFO [inventory,,] 6332 --- [inventory] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-01T03:05:16.463+05:30  INFO [inventory,,] 6332 --- [inventory] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.26]
+2024-08-01T03:05:16.525+05:30  INFO [inventory,,] 6332 --- [inventory] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-01T03:05:16.525+05:30  INFO [inventory,,] 6332 --- [inventory] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1168 ms
+2024-08-01T03:05:17.135+05:30  INFO [inventory,,] 6332 --- [inventory] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 1 endpoint beneath base path '/actuator'
+2024-08-01T03:05:17.182+05:30  INFO [inventory,,] 6332 --- [inventory] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8082 (http) with context path '/'
+2024-08-01T03:05:17.198+05:30  INFO [inventory,,] 6332 --- [inventory] [main] c.e.inventory.InventoryApplication       : Started InventoryApplication in 2.388 seconds (process running for 2.702)
+2024-08-01T03:09:11.719+05:30  INFO [inventory,,] 6332 --- [inventory] [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-01T03:09:11.719+05:30  INFO [inventory,,] 6332 --- [inventory] [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-01T03:09:11.721+05:30  INFO [inventory,,] 6332 --- [inventory] [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 2 ms
+2024-08-01T03:09:11.758+05:30  INFO [inventory,,] 6332 --- [inventory] [http-nio-8082-exec-1] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:14:24.184  INFO [inventory,,] 13084 --- [main] c.e.inventory.InventoryApplication       : Starting InventoryApplication using Java 11.0.24 on DESKTOP-QAVE7SK with PID 13084 (E:\Tech-HLD-LLD-Scaler\inventory\build\classes\java\main started by Yagnesh in E:\Tech-HLD-LLD-Scaler\inventory)
+2024-08-01 10:14:24.189  INFO [inventory,,] 13084 --- [main] c.e.inventory.InventoryApplication       : No active profile set, falling back to default profiles: default
+2024-08-01 10:14:25.005  INFO [inventory,,] 13084 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=ea54ed53-a744-3810-8ed9-a434b519d410
+2024-08-01 10:14:25.755  INFO [inventory,,] 13084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2024-08-01 10:14:25.773  INFO [inventory,,] 13084 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-01 10:14:25.773  INFO [inventory,,] 13084 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2024-08-01 10:14:25.890  INFO [inventory,,] 13084 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-01 10:14:25.890  INFO [inventory,,] 13084 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1646 ms
+2024-08-01 10:14:26.247  WARN [inventory,,] 13084 --- [main] o.s.c.s.a.z.ZipkinAutoConfiguration      : Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-08-01 10:14:27.474  INFO [inventory,,] 13084 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2024-08-01 10:14:27.703  INFO [inventory,,] 13084 --- [main] c.e.inventory.InventoryApplication       : Started InventoryApplication in 4.183 seconds (JVM running for 4.605)
+2024-08-01 10:16:19.072  INFO [inventory,,] 13044 --- [main] c.e.inventory.InventoryApplication       : Starting InventoryApplication using Java 11.0.24 on DESKTOP-QAVE7SK with PID 13044 (E:\Tech-HLD-LLD-Scaler\inventory\build\classes\java\main started by Yagnesh in E:\Tech-HLD-LLD-Scaler\inventory)
+2024-08-01 10:16:19.076  INFO [inventory,,] 13044 --- [main] c.e.inventory.InventoryApplication       : No active profile set, falling back to default profiles: default
+2024-08-01 10:16:19.742  INFO [inventory,,] 13044 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=ea54ed53-a744-3810-8ed9-a434b519d410
+2024-08-01 10:16:20.321  INFO [inventory,,] 13044 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2024-08-01 10:16:20.331  INFO [inventory,,] 13044 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-01 10:16:20.331  INFO [inventory,,] 13044 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2024-08-01 10:16:20.554  INFO [inventory,,] 13044 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-01 10:16:20.554  INFO [inventory,,] 13044 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1428 ms
+2024-08-01 10:16:20.831  WARN [inventory,,] 13044 --- [main] o.s.c.s.a.z.ZipkinAutoConfiguration      : Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Connection refused: connect; nested exception is java.net.ConnectException: Connection refused: connect}]
+2024-08-01 10:16:21.958  INFO [inventory,,] 13044 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2024-08-01 10:16:22.169  INFO [inventory,,] 13044 --- [main] c.e.inventory.InventoryApplication       : Started InventoryApplication in 3.774 seconds (JVM running for 4.149)
+2024-08-01 10:21:23.047  INFO [inventory,,] 11292 --- [main] c.e.inventory.InventoryApplication       : Starting InventoryApplication using Java 11.0.24 on DESKTOP-QAVE7SK with PID 11292 (E:\Tech-HLD-LLD-Scaler\inventory\build\classes\java\main started by Yagnesh in E:\Tech-HLD-LLD-Scaler\inventory)
+2024-08-01 10:21:23.047  INFO [inventory,,] 11292 --- [main] c.e.inventory.InventoryApplication       : No active profile set, falling back to default profiles: default
+2024-08-01 10:21:23.625  INFO [inventory,,] 11292 --- [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=ea54ed53-a744-3810-8ed9-a434b519d410
+2024-08-01 10:21:24.125  INFO [inventory,,] 11292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8082 (http)
+2024-08-01 10:21:24.125  INFO [inventory,,] 11292 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2024-08-01 10:21:24.125  INFO [inventory,,] 11292 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.53]
+2024-08-01 10:21:24.203  INFO [inventory,,] 11292 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2024-08-01 10:21:24.203  INFO [inventory,,] 11292 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1109 ms
+2024-08-01 10:21:24.500  WARN [inventory,,] 11292 --- [main] o.s.c.s.a.z.ZipkinAutoConfiguration      : Check result of the [RestTemplateSender{http://localhost:9411/api/v2/spans}] contains an error [CheckResult{ok=false, error=org.springframework.web.client.HttpClientErrorException$BadRequest: 400 Bad Request: [Empty JSON_V2 message]}]
+2024-08-01 10:21:25.453  INFO [inventory,,] 11292 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8082 (http) with context path ''
+2024-08-01 10:21:25.641  INFO [inventory,,] 11292 --- [main] c.e.inventory.InventoryApplication       : Started InventoryApplication in 3.141 seconds (JVM running for 3.476)
+2024-08-01 10:22:26.157  INFO [inventory,,] 11292 --- [http-nio-8082-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-08-01 10:22:26.158  INFO [inventory,,] 11292 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-08-01 10:22:26.160  INFO [inventory,,] 11292 --- [http-nio-8082-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2024-08-01 10:22:26.188  INFO [inventory,77d64742e8065b5e,e361b04efcdd142b] 11292 --- [http-nio-8082-exec-1] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:22:27.794  WARN [inventory,,] 11292 --- [AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}}] z.r.AsyncReporter$BoundedAsyncReporter   : Spans were dropped due to exceptions. All subsequent errors will be logged at FINE level.
+2024-08-01 10:22:27.831  WARN [inventory,,] 11292 --- [AsyncReporter{RestTemplateSender{http://localhost:9411/api/v2/spans}}] z.r.AsyncReporter$BoundedAsyncReporter   : Dropped 1 spans due to ResourceAccessException(I/O error on POST request for "http://localhost:9411/api/v2/spans": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out)
+
+org.springframework.web.client.ResourceAccessException: I/O error on POST request for "http://localhost:9411/api/v2/spans": Read timed out; nested exception is java.net.SocketTimeoutException: Read timed out
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:785) ~[spring-web-5.3.10.jar:5.3.10]
+	at org.springframework.cloud.sleuth.zipkin2.ZipkinRestTemplateWrapper.doExecute(ZipkinRestTemplateWrapper.java:69) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at org.springframework.web.client.RestTemplate.exchange(RestTemplate.java:660) ~[spring-web-5.3.10.jar:5.3.10]
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender.post(RestTemplateSender.java:151) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender$HttpPostCall.doExecute(RestTemplateSender.java:169) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at org.springframework.cloud.sleuth.zipkin2.RestTemplateSender$HttpPostCall.doExecute(RestTemplateSender.java:159) ~[spring-cloud-sleuth-zipkin-3.0.4.jar:3.0.4]
+	at zipkin2.Call$Base.execute(Call.java:391) ~[zipkin-2.23.0.jar:na]
+	at zipkin2.reporter.AsyncReporter$BoundedAsyncReporter.flush(AsyncReporter.java:299) ~[zipkin-reporter-2.16.1.jar:na]
+	at zipkin2.reporter.AsyncReporter$Flusher.run(AsyncReporter.java:378) ~[zipkin-reporter-2.16.1.jar:na]
+	at java.base/java.lang.Thread.run(Thread.java:829) ~[na:na]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/java.net.SocketInputStream.socketRead0(Native Method) ~[na:na]
+	at java.base/java.net.SocketInputStream.socketRead(SocketInputStream.java:115) ~[na:na]
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:168) ~[na:na]
+	at java.base/java.net.SocketInputStream.read(SocketInputStream.java:140) ~[na:na]
+	at java.base/java.io.BufferedInputStream.fill(BufferedInputStream.java:252) ~[na:na]
+	at java.base/java.io.BufferedInputStream.read1(BufferedInputStream.java:292) ~[na:na]
+	at java.base/java.io.BufferedInputStream.read(BufferedInputStream.java:351) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:789) ~[na:na]
+	at java.base/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:724) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1636) ~[na:na]
+	at java.base/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1541) ~[na:na]
+	at java.base/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527) ~[na:na]
+	at org.springframework.http.client.SimpleClientHttpResponse.getRawStatusCode(SimpleClientHttpResponse.java:55) ~[spring-web-5.3.10.jar:5.3.10]
+	at org.springframework.web.client.DefaultResponseErrorHandler.hasError(DefaultResponseErrorHandler.java:64) ~[spring-web-5.3.10.jar:5.3.10]
+	at org.springframework.web.client.RestTemplate.handleResponse(RestTemplate.java:807) ~[spring-web-5.3.10.jar:5.3.10]
+	at org.springframework.web.client.RestTemplate.doExecute(RestTemplate.java:777) ~[spring-web-5.3.10.jar:5.3.10]
+	... 9 common frames omitted
+
+2024-08-01 10:25:46.450  INFO [inventory,938e79fe31f5b7db,d9838560c80f7c4b] 11292 --- [http-nio-8082-exec-3] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:25:47.769  INFO [inventory,99883741a1e01f10,0c649e116dc0fc50] 11292 --- [http-nio-8082-exec-4] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:25:48.778  INFO [inventory,630a8cc1fff8a4b7,044a75db76504b54] 11292 --- [http-nio-8082-exec-5] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:25:49.800  INFO [inventory,635aebb9434a154f,6af19e980badc060] 11292 --- [http-nio-8082-exec-6] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:25:50.676  INFO [inventory,075a098f098409b2,834ff1778ae53311] 11292 --- [http-nio-8082-exec-7] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:25:51.580  INFO [inventory,7aa7c4d8a0953257,e81b91037d3c3476] 11292 --- [http-nio-8082-exec-8] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:25:52.597  INFO [inventory,96787154ecc04fe8,c2bb063a97b1fd3d] 11292 --- [http-nio-8082-exec-9] c.e.inventory.service.InventoryService   : Checking inventory for product: 123
+2024-08-01 10:26:00.114  INFO [inventory,f6fc9ad699c402d5,25b7057c48617008] 11292 --- [http-nio-8082-exec-10] c.e.inventory.service.InventoryService   : Checking inventory for product: 563
+2024-08-01 10:26:05.408  INFO [inventory,3686bafb52a8f869,325e2e1ae47a0920] 11292 --- [http-nio-8082-exec-1] c.e.inventory.service.InventoryService   : Checking inventory for product: 892
+2024-08-01 10:26:09.830  INFO [inventory,23d64fd98de8b5fc,fc9189fedfe66048] 11292 --- [http-nio-8082-exec-2] c.e.inventory.service.InventoryService   : Checking inventory for product: 1211
+2024-08-01 10:26:14.840  INFO [inventory,cbc7ce4b6465c4e9,2127d94bc5028605] 11292 --- [http-nio-8082-exec-3] c.e.inventory.service.InventoryService   : Checking inventory for product: 7817
+2024-08-01 10:45:06.153  INFO [inventory,27e2cbbae7f55353,62939ee5bcdf6b43] 11292 --- [http-nio-8082-exec-5] c.e.inventory.service.InventoryService   : Checking inventory for product: 7817
+2024-08-01 10:52:34.752  INFO [inventory,a4e7f4c771480340,73df0abbdbb0d480] 11292 --- [http-nio-8082-exec-7] c.e.inventory.service.InventoryService   : Checking inventory for product: 7817
